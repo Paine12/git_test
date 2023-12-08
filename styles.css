@@ -1,0 +1,40 @@
+.content {
+    width: 400px;
+    height: 60%;
+    background-color: blueviolet;
+    margin: auto auto;
+}
+
+h1 , li {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.goofy {
+    color: blueviolet;
+}
+
+.goofy:hover {
+    color: wheat;
+}
+
+.backg1 {
+    background-image: url(fata-vesela.jpg);
+    background-repeat: no-repeat;
+}
+
+.backg {
+    background-image: url(download.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p {
+    font-size: large;
+}
